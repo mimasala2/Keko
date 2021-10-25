@@ -9,8 +9,6 @@ ScriptsOnlyBuild:
     - Score
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
-    - UnityEditor.Tilemaps.GridPaletteBrushes
-    - UnityEditor.Tilemaps.GridPalettes
     - UnityEditor.Tilemaps.SceneViewGridManager
     - UnityEditor.Tilemaps.SceneViewOpenTilePaletteHelper
     - UnityEditor.Tilemaps.TileDragAndDropManager
@@ -505,4 +503,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/mytal/OneDrive/Desktop/KekoBuild/Keko.exe
+  playerPath: C:/Source/Projects-UNITY/KekoRepo/KekoSetup/KekoBuild/Keko.exe
